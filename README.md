@@ -1,2 +1,16 @@
-# UUM
-It feels like just having it could bring you good luck.
+# UUN Token
+
+**UUN**은 인플루언서 기반의 커뮤니티 밈 토큰입니다.  
+커뮤니티 중심의 가치와 성장형 토큰 모델을 지향하며, 창립자 80%, 커뮤니티 20%로 분배된 고정된 총 발행량 7억 개의 ERC-20 토큰입니다.
+
+## 토큰 정보
+
+- 이름: UUN Token
+- 심볼: UUN
+- 총 발행량: 700,000,000
+- 체인: Ethereum (ERC-20)
+- 계약 배포 주소: `0x1dAa57F6D7590B493C45c7A6f5ab558546554016`
+
+## 로고
+
+`/assets/logo.png` 참고
